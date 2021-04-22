@@ -14,5 +14,8 @@
 <p align='center'>
 <img src='/img2.png' title='images' style='max-width:600px'></img>
 </p>
-
-
+2. md5.xls文件要和python文件在同一个目录下执行
+3. 执行时注意更改为自己的文件目录
+<p align='center'>
+<img src='/img3.png' title='images' style='max-width:600px'></img>
+</p>
