@@ -19,3 +19,7 @@
 <p align='center'>
 <img src='/img3.png' title='images' style='max-width:600px'></img>
 </p>
+4. 在执行HM平台相关文件时注意，要求本地浏览器先登录平台之后将途中的路径改为自己电脑的路径（即获取到本地的cookies）
+<p align='center'>
+<img src='/img4.png' title='images' style='max-width:600px'></img>
+</p>
